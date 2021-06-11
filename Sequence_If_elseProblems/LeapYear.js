@@ -1,3 +1,6 @@
+/**
+ * @description Prob_3: Program That find whether Given Year is Leap Year or Not
+ **/
 const prompt = require('prompt-sync')();
 const year = prompt("Enter the Year(YYYY):    ");
 
